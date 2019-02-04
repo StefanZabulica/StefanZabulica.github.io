@@ -4,3 +4,4 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/StefanZabulica/ioncreanga.github.io.git
 git push -u origin master
+echo index.html
