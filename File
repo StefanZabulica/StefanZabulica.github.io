@@ -7,3 +7,4 @@ git push -u origin master
 echo index.html
 echo style.css
 include "style.css";
+echo "<link rel='stylesheet' href='style.css'>";
