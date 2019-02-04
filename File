@@ -8,3 +8,6 @@ echo index.html
 echo style.css
 include "style.css";
 echo "<link rel='stylesheet' href='style.css'>";
+<style>
+<?php echo file_get_contents("style.css"); ?>
+</style>
