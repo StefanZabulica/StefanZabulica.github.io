@@ -5,9 +5,3 @@ git commit -m "first commit"
 git remote add origin https://github.com/StefanZabulica/ioncreanga.github.io.git
 git push -u origin master
 echo index.html
-echo style.css
-include "style.css";
-echo "<link rel='stylesheet' href='style.css'>";
-<style>
-<?php echo file_get_contents("style.css"); ?>
-</style>
