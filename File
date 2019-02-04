@@ -6,3 +6,4 @@ git remote add origin https://github.com/StefanZabulica/ioncreanga.github.io.git
 git push -u origin master
 echo index.html
 echo style.css
+include "style.css";
