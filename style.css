@@ -12,8 +12,8 @@ body{
 }
 .start{
 	font-size: 350%;
+	align-content: center;
 	text-align: center;
-
 	color: coral;
 }
 .login{
