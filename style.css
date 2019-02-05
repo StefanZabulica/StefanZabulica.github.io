@@ -10,9 +10,8 @@ body{
 	margin: 0 auto;
 
 }
-.start{
+h1{
 	font-size: 350%;
-	align-content: center;
 	text-align: center;
 	color: coral;
 }
