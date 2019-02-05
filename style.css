@@ -23,3 +23,8 @@ h1{
 	font-size: 200%;
 
 }
+.text{
+	font-size: 150%;
+	text-align: center;
+	color: solid blue;
+}
