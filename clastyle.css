@@ -1,0 +1,57 @@
+#nav {
+      width: 100%;
+      float: left;
+      margin: 0 0 3em 0;
+      padding: 0;
+      list-style: none;
+      background-color: #C1C1C1;
+      border-bottom: 1px solid #ccc;
+      border-top: 1px solid #ccc; }
+      #nav li {
+      float: left; }
+      #nav li a {
+      display: block;
+      padding: 8px 15px;
+      text-decoration: none;
+      font-weight: bold;
+      color: #2C4251;
+      border-right: 1px solid #ccc; }
+      #nav li a:hover {
+      color: #c00;
+      background-color: #fff; } 
+body  {
+  background-image: url("AMG.jpg");
+  background-color: #cccccc;
+}
+
+
+#page{
+
+
+	
+	margin: 0 auto;
+
+}
+h1{
+	font-size: 350%;
+	text-align: center;
+	color: #324A5F;
+}
+.login{
+ 	 border: 3px solid green;
+	text-align: center;
+}
+.alert{
+	font-size: 200%;
+
+}
+.text{
+	font-size: 250%;
+	text-align: center;
+	color: #0066ff;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
